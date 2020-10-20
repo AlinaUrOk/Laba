@@ -34,7 +34,7 @@ int main()
     for (int n = 1; n <= N; n++)
     {
         Palindrom = isPalindrom(N);
-        if (Palindrom == isPalindrom(n));
+        if (Palindrom == isPalindrom(n))
         {
         cout << "isPalindrom-" << n << endl;
         }
